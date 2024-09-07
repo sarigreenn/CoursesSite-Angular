@@ -25,3 +25,5 @@ Connect to your local server.
 Run the server-side project using Visual Studio.
 Navigate to the client directory and run npm install to install dependencies.
 Run ng serve to start the development server.
+
+All rights reserved to Sari Greenblatt sarig362@gmail.com
