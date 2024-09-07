@@ -11,8 +11,8 @@ Course management: view courses list, add, edit, and delete.
 Student management: view students list, add, edit, and delete.
 User-friendly interface.
 Advanced data security.
-Installation and Setup
 
+Installation and Setup
 Install Prerequisites:
 Visual Studio 20xx or above.
 Node.js and NPM.
